@@ -1,5 +1,7 @@
 #include <VGAX.h>
 
+//TEST TEST HELLO HELLO
+
 //image generated from 2BITIMAGE - by Sandro Maffiodo
 #define IMG_1_BWIDTH 30
 #define IMG_1_HEIGHT 60
